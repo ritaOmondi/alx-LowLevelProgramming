@@ -24,4 +24,5 @@ double d;
  puts("The size of an int is: %lu.\n" (unsigned long)sizeof(i));
  return (0);
 }
-7. 
+7. gcc -S -masm=$CFILE
+8.  
