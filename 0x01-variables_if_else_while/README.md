@@ -10,4 +10,4 @@
 9. Combination of digits
 10. Write a program that prints all possible different combinations of two digits.
 11. Write a program that prints all possible different combinations of three digits.
-12.       
+12. Write a program that prints all possible combinations of two two-digit numbers.       
