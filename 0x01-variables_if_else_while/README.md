@@ -8,5 +8,6 @@
 7. Reversing alphabets.
 8. Hexadecimal.
 9. Combination of digits
-10.  Write a program that prints all possible different combinations of two digits.
-11.     
+10. Write a program that prints all possible different combinations of two digits.
+11. Write a program that prints all possible different combinations of three digits.
+12.       
