@@ -6,4 +6,5 @@
 5.  Listing digits from 0 to 10.
 6. Numbers
 7. Reversing alphabets.
-8.       
+8. Hexadecimal.
+9.       
