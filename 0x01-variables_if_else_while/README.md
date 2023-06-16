@@ -5,4 +5,5 @@
 4. Listing all alphabets except e and q.
 5.  Listing digits from 0 to 10.
 6. Numbers
-7.      
+7. Reversing alphabets.
+8.       
