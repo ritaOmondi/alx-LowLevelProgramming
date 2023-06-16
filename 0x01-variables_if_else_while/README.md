@@ -7,4 +7,5 @@
 6. Numbers
 7. Reversing alphabets.
 8. Hexadecimal.
-9.       
+9. Combination of digits
+10.       
