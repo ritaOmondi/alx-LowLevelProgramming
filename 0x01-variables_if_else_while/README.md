@@ -2,4 +2,5 @@
 1. The last digit.
 2. Listing alphabetical numbers in lowercase.
 3. Listing alphabets in lowercase then Uppercase.
-4.   
+4. Listing all alphabets except e and q.
+5.    
