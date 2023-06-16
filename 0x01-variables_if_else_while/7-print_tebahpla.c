@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/**
+ * main - prints alphabets in reverse form
+ * Return: Always  (Success)
+ */
 
 int main(void)
 {
