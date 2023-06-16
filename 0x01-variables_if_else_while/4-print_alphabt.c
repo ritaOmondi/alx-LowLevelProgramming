@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	char alph,e,q;
+	char alph , e , q;
 
 	e = 'e';
 	q = 'q';
@@ -16,7 +16,7 @@ int main(void)
 	for (alph = 'a'; alph <= 'z'; alph++)
 	{
 	if (alph != e && alph != q)
-		putchar(alph); 
+	putchar(alph); 
 	}
 	putchar('\n');
 	return (0);
