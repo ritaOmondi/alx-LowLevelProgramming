@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - printout Entry point
- * Return: 0 Always 
+ * Return: zero  Always 
  */
 
 int main(void)
@@ -19,5 +19,3 @@ int main(void)
 	return (0);
 
 }
-	
-	
