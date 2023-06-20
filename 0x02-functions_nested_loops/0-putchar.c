@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - printout Entry point
- * Return: zero  Always 
+ * main - prints if number is positive, zero or negative
+ * Return: Always  (Success)
  */
 
 int main(void)
