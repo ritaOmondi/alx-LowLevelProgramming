@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabets_x10
+ * print_alphabet_x10- make alphabets x10 time
  * return void
  */
 
@@ -8,7 +8,7 @@ void print_alphabet_x10(void)
 {
 
 	char x;
-	int count=0;
+	int count = 0;
 
 	while (count <= 9)
 	{
@@ -18,7 +18,6 @@ void print_alphabet_x10(void)
 	}
 	_putchar('\n');
 	count++;
-	
 	}
 
 
