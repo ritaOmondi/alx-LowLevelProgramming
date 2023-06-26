@@ -4,8 +4,8 @@
  * @a - first integer being swapped
  * @b -  second integer being swapped
  *
- * Description: The function takes the value of a and swaps
- * it to the value of b. As the vice versa
+ * Description: The function takes the two pointers to integers as parameter
+ * and swaps the values of the pointers it points to.
  * Return : Success (Always)
  */
 void swap_int(int *a, int *b)
