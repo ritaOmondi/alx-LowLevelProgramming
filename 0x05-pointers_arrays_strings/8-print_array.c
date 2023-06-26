@@ -2,7 +2,8 @@
 #include <stdio.h>
 /**
  * print_array - prints array poof elements
- * @n - numbers of array elements to be printed
+ * @a : pointer to the array
+ * @n : numbers of elements in the array
  * Description: The function takes a pointer to an integer parameter
  * and returns elements of integers to the standard output
  * separated by a comma and a space
