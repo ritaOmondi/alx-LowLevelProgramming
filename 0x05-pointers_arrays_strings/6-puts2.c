@@ -1,9 +1,11 @@
 #include "main.h"
 /**
- *  puts2 - prints every other character of a string, starting with the first character
+ *  puts2 - prints every other character of a string, 
+ *  starting with the first character
  *  @str pointer to the string
  *
- *  Description: The function prints every other character of a string with the 
+ *  Description: The function prints every other 
+ *  character of a string with the 
  *  first character followed by a new line
  */
 void puts2(char *str)
@@ -16,7 +18,7 @@ void puts2(char *str)
 	{
 	b++;
 	}
-	for (a = 0; a < b; a+= 2)
+	for (a = 0; a < b; a += 2)
 	{
 	_putchar(str[a]);
 	}
