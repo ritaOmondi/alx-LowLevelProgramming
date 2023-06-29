@@ -1,14 +1,14 @@
 #include "main.h"
 /**
  * *_strcat - THe Function concatinates two strings
- * @src - first pointer to be concatenated
- * @dest -  the second pointer being concatenated
+ * @src - the source string
+ * @dest -  the destination string
  *
- * Description - The function concatenates two pointer parameters
+ * Description - The function takes two pointer parameters
  * Function appends the src string to dest string overwriting
  * the terminating null byte.
  *
- * Return - dest
+ * Return - pointer to the resulting dest
  */
 
 char *_strcat(char *dest, char *src)
@@ -18,10 +18,8 @@ char *_strcat(char *dest, char *src)
 
 	while (dest[strng])
 	{
-	
 	strng++;
 	}
-
 	for (i = 0; src[i] != 0; i++)
 	{
 	dest[strng] = src[i];
