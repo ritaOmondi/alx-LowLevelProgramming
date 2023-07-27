@@ -1,8 +1,7 @@
 #include "lists.h"
-#include <stdlib.h>
 #include <stdio.h>
 /**
- * print_list - prints all the elements of a list_t list
+ * print_list - prints all  elements of a linked list
  * @h : pointer of data type
  * @list_t : input
  *
@@ -14,12 +13,12 @@ size_t print_list(const list_t *h)
 
 	while (h)
 	{
-	if (!h->str)
+	if (h->str == NULL)
 	printf("[0] (nil)\n");
 	else
 	printf("[%d]%s\n", h->len, h->str);
-	h = h->next;
 	a++;
+	h = h->next;
 	}
 	return (a);
 }
